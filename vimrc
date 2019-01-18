@@ -1,5 +1,5 @@
 syntax on
 
-set autochdir
+" set autochdir
 
 
