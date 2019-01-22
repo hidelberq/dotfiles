@@ -3,7 +3,6 @@ bind \c] peco_change_directory # Bind for prco change directory to Ctrl+]
 
 set PATH $HOME/.nodebrew/current/bin /usr/local/opt/python/libexec/bin $PATH
 
-
 # Git Information in Fish Shell’s　Prompt
 # https://www.martinklepsch.org/posts/git-prompt-for-fish-shell.html
 
@@ -24,3 +23,4 @@ set __fish_git_prompt_char_stashstate '↩'
 set __fish_git_prompt_char_upstream_ahead '+'
 set __fish_git_prompt_char_upstream_behind '-'
 
+alias t='todo.sh'
