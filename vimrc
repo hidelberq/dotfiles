@@ -15,3 +15,5 @@ syntax on
 set path+=**
 set wildmenu
 
+command! MakeTags !ctags -R .
+
