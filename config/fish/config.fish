@@ -24,5 +24,5 @@ set __fish_git_prompt_char_upstream_ahead '+'
 set __fish_git_prompt_char_upstream_behind '-'
 
 alias t='todo.sh'
-alias rm='rmtrash'
+#alias rm='rmtrash'
 

@@ -17,3 +17,4 @@ set wildmenu
 
 command! MakeTags !ctags -R .
 
+set noswapfile
