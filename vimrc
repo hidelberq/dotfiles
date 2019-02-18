@@ -26,3 +26,13 @@ let g:netrw_liststyle=3     " tree view
 " let g:netrw_list_hide.=',\(^\|\s\s\)\zs\.\S\+'
 
 set noswapfile
+
+" 分割で開いたときに85%のサイズで開く
+let g:netrw_winsize = 85
+
+set number
+
+" hashivim/vim-terraform
+let g:terraform_fmt_on_save = 1
+
+
